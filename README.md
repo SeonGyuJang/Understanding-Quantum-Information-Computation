@@ -58,11 +58,11 @@ IBM Quantum Platform을 통해 양자 컴퓨팅에 대해 공부한 내용을 �
 ## 📙 Part III. 양자 정보의 일반 공식화
 
 - [ ] 밀도 행렬 [[YouTube](https://www.youtube.com/watch?v=2wticzHE1vs&list=PLOFEBzvs-VvqKKMXX4vbi4EB1uaErFMSO&index=11)] — ⌛ 대기  
-  - 코드: [notebooks/part3_density_matrix.ipynb](notebooks/part3_density_matrix.ipynb)  
+  - 코드: [notebooks/Density_matrices](notebooks/Density_matrices/)  
   - 노션: [링크]()
 
 - [ ] 양자 채널 [[YouTube](https://www.youtube.com/watch?v=2wticzHE1vs&list=PLOFEBzvs-VvqKKMXX4vbi4EB1uaErFMSO&index=12)] — ⌛ 대기  
-  - 코드: [notebooks/part3_quantum_channel.ipynb](notebooks/part3_quantum_channel.ipynb)  
+  - 코드: [notebooks/Quantum_channels](notebooks/Quantum_channels/)  
   - 노션: [링크]()
 
 - [ ] 일반 측정 [[YouTube](https://www.youtube.com/watch?v=2wticzHE1vs&list=PLOFEBzvs-VvqKKMXX4vbi4EB1uaErFMSO&index=13)] — ⌛ 대기  
@@ -70,7 +70,7 @@ IBM Quantum Platform을 통해 양자 컴퓨팅에 대해 공부한 내용을 �
   - 노션: [링크]()
 
 - [ ] 정화와 충실함 [[YouTube](https://www.youtube.com/watch?v=2wticzHE1vs&list=PLOFEBzvs-VvqKKMXX4vbi4EB1uaErFMSO&index=14)] — ⌛ 대기  
-  - 코드: [notebooks/part3_purification_fidelity.ipynb](notebooks/part3_purification_fidelity.ipynb)  
+  - 코드: [notebooks/General_measurements](notebooks/General_measurements/)  
   - 노션: [링크]()
 
 ---
@@ -78,19 +78,19 @@ IBM Quantum Platform을 통해 양자 컴퓨팅에 대해 공부한 내용을 �
 ## 📕 Part IV. 양자 오류 수정의 기초
 
 - [ ] 양자 오류 수정 [[YouTube](https://www.youtube.com/watch?v=2wticzHE1vs&list=PLOFEBzvs-VvqKKMXX4vbi4EB1uaErFMSO&index=15)] — ⌛ 대기  
-  - 코드: [notebooks/part4_qec.ipynb](notebooks/part4_qec.ipynb)  
+  - 코드: [notebooks/Correcting_quantum_errors](notebooks/Correcting_quantum_errors/)  
   - 노션: [링크]()
 
 - [ ] 안정제 형식주의 [[YouTube](https://www.youtube.com/watch?v=2wticzHE1vs&list=PLOFEBzvs-VvqKKMXX4vbi4EB1uaErFMSO&index=16)] — ⌛ 대기  
-  - 코드: [notebooks/part4_stabilizer_formalism.ipynb](notebooks/part4_stabilizer_formalism.ipynb)  
+  - 코드: [notebooks/The_stabilizer_formalism](notebooks/The_stabilizer_formalism/)  
   - 노션: [링크]()
 
 - [ ] 양자 코드 구성 [[YouTube](https://www.youtube.com/watch?v=2wticzHE1vs&list=PLOFEBzvs-VvqKKMXX4vbi4EB1uaErFMSO&index=17)] — ⌛ 대기  
-  - 코드: [notebooks/part4_code_construction.ipynb](notebooks/part4_code_construction.ipynb)  
+  - 코드: [notebooks/Quantum_code_constructions](notebooks/pQuantum_code_constructions/)  
   - 노션: [링크]()
 
 - [ ] 내결함성 양자 컴퓨팅 [[YouTube](https://www.youtube.com/watch?v=2wticzHE1vs&list=PLOFEBzvs-VvqKKMXX4vbi4EB1uaErFMSO&index=18)] — ⌛ 대기  
-  - 코드: [notebooks/part4_fault_tolerant.ipynb](notebooks/part4_fault_tolerant.ipynb)  
+  - 코드: [notebooks/Fault_tolerant_quantum_computing](notebooks/Fault_tolerant_quantum_computing/)  
   - 노션: [링크]()
 
 ---
@@ -98,7 +98,7 @@ IBM Quantum Platform을 통해 양자 컴퓨팅에 대해 공부한 내용을 �
 ## 🤖 Quantum Machine Learning
 
 - [ ] IBM Quantum QML 과정 [[링크](https://quantum.cloud.ibm.com/learning/en/courses/quantum-machine-learning)] — ⌛ 대기  
-  - 코드: [notebooks/quantum_ml.ipynb](notebooks/quantum_ml.ipynb)  
+  - 코드: [notebooks/Quantum_machine_learning](notebooks/Quantum_machine_learning/)  
   - 노션: [링크]()
 
 ---
