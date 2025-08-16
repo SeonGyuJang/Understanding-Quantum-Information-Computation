@@ -66,11 +66,11 @@ IBM Quantum Platform을 통해 양자 컴퓨팅에 대해 공부한 내용을 �
   - 노션: [링크]()
 
 - [ ] 일반 측정 [[YouTube](https://www.youtube.com/watch?v=2wticzHE1vs&list=PLOFEBzvs-VvqKKMXX4vbi4EB1uaErFMSO&index=13)] — ⌛ 대기  
-  - 코드: [notebooks/part3_general_measurement.ipynb](notebooks/part3_general_measurement.ipynb)  
+  - 코드: [notebooks/General_measurements](notebooks/General_measurements/)  
   - 노션: [링크]()
 
 - [ ] 정화와 충실함 [[YouTube](https://www.youtube.com/watch?v=2wticzHE1vs&list=PLOFEBzvs-VvqKKMXX4vbi4EB1uaErFMSO&index=14)] — ⌛ 대기  
-  - 코드: [notebooks/General_measurements](notebooks/General_measurements/)  
+  - 코드: [notebooks/Purifications_and_fidelity](notebooks/Purifications_and_fidelity/)  
   - 노션: [링크]()
 
 ---
