@@ -19,7 +19,7 @@ IBM Quantum Platform을 통해 양자 컴퓨팅에 대해 공부한 내용을 �
 
 - [ ] 단일 시스템 [[YouTube](https://www.youtube.com/watch?v=3-c4xJa7Flk&list=PLOFEBzvs-VvqKKMXX4vbi4EB1uaErFMSO&index=3)] — 🚧 공부 중
   - 코드: [notebooks/Single_system](notebooks/1_Single_systems/)  
-  - 노션: [링크](https://www.notion.so/jangseongyu/Single-Systmes-25123c5b4de78015a5a5cbd993806310)
+  - 노션: [링크](https://www.notion.so/jangseongyu/Single-Systems-25123c5b4de78015a5a5cbd993806310)
 
 - [ ] 다중 시스템 [[YouTube](https://www.youtube.com/watch?v=DfZZS8Spe7U&list=PLOFEBzvs-VvqKKMXX4vbi4EB1uaErFMSO&index=4)] — ⌛ 대기  
   - 코드: [notebooks/Multiple_systems](notebooks/2_Multiple_systems/)  
