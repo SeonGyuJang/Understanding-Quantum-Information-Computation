@@ -17,7 +17,7 @@ IBM Quantum Platform을 통해 양자 컴퓨팅에 대해 공부한 내용을 �
 
 ## 📘 Part I. 양자 정보의 기초
 
-- [ ] 단일 시스템 [[YouTube](https://www.youtube.com/watch?v=3-c4xJa7Flk&list=PLOFEBzvs-VvqKKMXX4vbi4EB1uaErFMSO&index=3)] — ⌛ 대기
+- [ ] 단일 시스템 [[YouTube](https://www.youtube.com/watch?v=3-c4xJa7Flk&list=PLOFEBzvs-VvqKKMXX4vbi4EB1uaErFMSO&index=3)] — 🚧 공부 중
   - 코드: [notebooks/Single_system](notebooks/1_Single_systems/)  
   - 노션: [링크](https://www.notion.so/jangseongyu/Single-Systmes-25123c5b4de78015a5a5cbd993806310)
 
@@ -103,7 +103,7 @@ IBM Quantum Platform을 통해 양자 컴퓨팅에 대해 공부한 내용을 �
 
 ---
 
-## 목표
+## 🏆 목표
 - 양자 컴퓨팅의 기초부터 양자 머신러닝까지 전체 로드맵 정리 및 공부
 - **YouTube 강의 + 코드 + 노션 정리**를 통한 체계적인 공부
 - 나중에 다른 학습자들이 참고할 수 있도록 **아카이브** 구축
