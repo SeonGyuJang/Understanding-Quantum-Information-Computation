@@ -2,7 +2,7 @@
 # Quantum learning
 
 IBM Quantum Platform을 통해 양자 컴퓨팅에 대해 공부한 내용을 정리하는 Repository 입니다.  
-각 파트별로 **Jupyter Notebook(`.ipynb`)**와 **노션 정리 링크**를 포함합니다.  
+각 파트별로 Jupyter Notebook(`.ipynb`)와 **노션 정리 링크**를 포함합니다.  
 
 ---
 
